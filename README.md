@@ -9,7 +9,7 @@ Turma: Informática para a Internet II
 
 Legenda Prints:
 Print 28/05/25 - Mostra a instalação e configurações de instalação do Windows na VM
-Print I (04/06/25) - Configurações da VM
+Print I (04/06/25) - Configurações da VM no VirtualBox
 Print II (04/06/25) - Windows funcionando na VM
 
 Etapas:
